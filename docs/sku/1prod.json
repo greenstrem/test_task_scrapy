@@ -1,0 +1,71 @@
+{
+    "id": 5244669,
+    "sku": "5244669",
+    "title": "Светильник \"Цветок\", With Love, 14,5х8 см, в ассортименте",
+    "isFresh": false,
+    "isNew": false,
+    "isPromo": false,
+    "adult": false,
+    "isSeason": false,
+    "isHit": false,
+    "isQRMark": false,
+    "forbidden": false,
+    "active": true,
+    "image": 2363920,
+    "images": [
+       {
+          "id": 2363920,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/69/69e48d6cd0477563eb222091745b8804.jpg"
+       },
+       {
+          "id": 2363921,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/2f/2fafdfd73dffe2ee569e1228c7493cb6.jpg"
+       },
+       {
+          "id": 2363922,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/ba/ba40ad1b11f32fba3c77cd2986b92b29.jpg"
+       },
+       {
+          "id": 2363923,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/44/44ad1ac5ffc54cb50b0944a1bf4f7a80.jpg"
+       },
+       {
+          "id": 2363924,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/08/08ba49db9f6db5ad53c7605b33d4870b.jpg"
+       },
+       {
+          "id": 2363925,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/1a/1a9f951ea4c8ce99b7afb710be0514d6.jpg"
+       },
+       {
+          "id": 2363926,
+          "title": null,
+          "src": "https://img.fix-price.com/_marketplace/images/origin/7a/7a15d0e158f90975f8ebb76341ea2046.jpg"
+       }
+    ],
+    "unit": null,
+    "specialPrice": null,
+    "price": "35.00",
+    "unitPrice": "",
+    "minPrice": "35.00",
+    "maxPrice": "35.00",
+    "variantCount": 1,
+    "variantId": 96396,
+    "url": "suveniry-i-podarki/p-5244669-svetilnik-tsvetok-ith-ove-145h8-sm-v-assortimente",
+    "inStock": 11,
+    "brand": {
+       "id": 54,
+       "title": "With love"
+    },
+    "category": {
+       "id": 2133,
+       "title": "Сувениры и подарки",
+       "parentCategory": null
+    }
+ }

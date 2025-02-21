@@ -1,0 +1,1258 @@
+[
+    {
+        "id": 5100070,
+        "sku": "5100070",
+        "title": "Распылитель, 0,5 л, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413869,
+        "images": [
+            {
+                "id": 2413869,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/d5/d55ecddd3061a583bc9ac29c68bbbbd3.jpg"
+            },
+            {
+                "id": 2413870,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/90/9060978a791f36813ca6c825e6e563bd.jpg"
+            },
+            {
+                "id": 2413871,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/4c/4c7213139761954318c9585e2f458560.jpg"
+            },
+            {
+                "id": 2413872,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/5f/5f10b561b46819db6b1bbcc72acaeed2.jpg"
+            },
+            {
+                "id": 2413873,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/eb/ebf704739ee4fc77d1e9e4f2bed2b598.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "56",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "62.00",
+        "unitPrice": "",
+        "minPrice": "62.00",
+        "maxPrice": "62.00",
+        "variantCount": 4,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5100070-raspylitel-05-l-v-assortimente",
+        "inStock": 121,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120193,
+        "sku": "5120193",
+        "title": "Почвобрикет \"Крепкая рассада\", БиоМастер, 8 л",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2358396,
+        "images": [
+            {
+                "id": 2358397,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/14/14446db0628a4c3fc070eaf8042dd128.jpg"
+            },
+            {
+                "id": 2358398,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/ce/ceaeafedc72b8de7cc2fa0e04a902b42.jpg"
+            },
+            {
+                "id": 2358399,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/37/37e20aba7ec92ca2abd891c7e125d4fc.jpg"
+            },
+            {
+                "id": 2358396,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/8e/8ed1b4cfa3110ca8596e924d5a8af276.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "115",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "124.00",
+        "unitPrice": "",
+        "minPrice": "124.00",
+        "maxPrice": "124.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120193-pochvobriket-krepkaya-rassada-biomaster-8-l",
+        "inStock": 16,
+        "brand": {
+            "id": 173,
+            "title": "БиоМастер"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120239,
+        "sku": "5120239",
+        "title": "Дренаж керамзитовый, Царица цветов, 2 л",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2414345,
+        "images": [
+            {
+                "id": 2414345,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e3/e35307247da42c967dae3ad0a468b959.jpg"
+            },
+            {
+                "id": 2414346,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/92/92ef4a2c750351c27871fb3e47137aeb.jpg"
+            },
+            {
+                "id": 2414347,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/5a/5a7e297cb500a97bf0170d04983d213a.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "43.50",
+        "unitPrice": "",
+        "minPrice": "43.50",
+        "maxPrice": "43.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120239-drenaj-keramzitovyy-tsaritsa-tsvetov-2-l",
+        "inStock": 19,
+        "brand": {
+            "id": 20503,
+            "title": "Царица Цветов"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120291,
+        "sku": "5120291",
+        "title": "Янтарная кислота, Секрет урожая, 4 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2414311,
+        "images": [
+            {
+                "id": 2414311,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/4b/4b8fccdaf3fc7ead3b4900d1f9247912.jpg"
+            },
+            {
+                "id": 2414312,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/5b/5bbb1b40c9802c4b43b9eb48756a3f65.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "16",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "19.80",
+        "unitPrice": "",
+        "minPrice": "19.80",
+        "maxPrice": "19.80",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120291-yantarnaya-kislota-sekret-urojaya-4-g",
+        "inStock": 12,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120242,
+        "sku": "5120242",
+        "title": "Вермикулит, Царица цветов, 1,8 л",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2287829,
+        "images": [
+            {
+                "id": 2287829,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/98/98389ec8b9183705d3e0e896c99568c1.jpg"
+            },
+            {
+                "id": 2287830,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/93/93ed54dfb1f8baff2e0ada3f4469f598.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "83.00",
+        "unitPrice": "",
+        "minPrice": "83.00",
+        "maxPrice": "83.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120242-vermikulit-tsaritsa-tsvetov-18-l",
+        "inStock": 19,
+        "brand": {
+            "id": 20503,
+            "title": "Царица Цветов"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5110037,
+        "sku": "5110037",
+        "title": "Набор садовых информационных табличек, GreenArt, 20 шт., 15х5,5 см, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413837,
+        "images": [
+            {
+                "id": 2413837,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/f8/f80a81a045f61bf894ab22020e718a78.jpg"
+            },
+            {
+                "id": 2413838,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/5f/5f5218465646fd043467c629fa8062d6.jpg"
+            },
+            {
+                "id": 2413839,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/6a/6a6a7f77bfc8b42abf3d74a3ef180366.jpg"
+            },
+            {
+                "id": 2413840,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/0d/0df00c9497c3a37e0b4545f77546d762.jpg"
+            },
+            {
+                "id": 2413841,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/a0/a0c7c83f16f63be979855658dd1b4aae.jpg"
+            },
+            {
+                "id": 2413842,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/17/17b35fb8071718e24a1e230fcd8f5ff5.jpg"
+            },
+            {
+                "id": 2413843,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/14/148fd36d4cf2fc6db24bb2a884be77ae.jpg"
+            },
+            {
+                "id": 2413844,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/74/74d2b63e7161f216fba2b298337ffe9b.jpg"
+            },
+            {
+                "id": 2413845,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/86/8617a1c9758cfc62fd48d033b8aa2b04.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "59.00",
+        "unitPrice": "",
+        "minPrice": "59.00",
+        "maxPrice": "59.00",
+        "variantCount": 3,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5110037-nabor-sadovyh-informatsionnyh-tablichek-reenrt-20-sht-15h55-sm-v-assortimente",
+        "inStock": 101,
+        "brand": {
+            "id": 12630,
+            "title": "Greenart"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120025,
+        "sku": "5120025",
+        "title": "Грунт для рассады, Родная земля, 10 л",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2216190,
+        "images": [
+            {
+                "id": 2216190,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/54/5480aecf1ccb663ea8afc51263128af2.jpg"
+            },
+            {
+                "id": 2216191,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/4c/4c1537475c92f7b7793563e9d1736b69.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "69.00",
+        "unitPrice": "",
+        "minPrice": "69.00",
+        "maxPrice": "69.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120025-grunt-dlya-rassady-rodnaya-zemlya-10-l",
+        "inStock": 28,
+        "brand": {
+            "id": 15845,
+            "title": "Родная земля"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120114,
+        "sku": "5120114",
+        "title": "Удобрение универсальное для комнатных растений, ОЖЗ Кузнецова, 50 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413891,
+        "images": [
+            {
+                "id": 2413891,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/fe/fe138faa1d21949f53fd34c49ef62984.jpg"
+            },
+            {
+                "id": 2413892,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/b7/b7658b17bae13de1b6f1cd36fc68ee6d.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "39",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "43.50",
+        "unitPrice": "",
+        "minPrice": "43.50",
+        "maxPrice": "43.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120114-udobrenie-universalnoe-dlya-komnatnyh-rasteniy-ojz-kuznetsova-50-g",
+        "inStock": 27,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120226,
+        "sku": "5120226",
+        "title": "Фосфорно-калийное удобрение \"Монокалийфосфат\", 10 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413889,
+        "images": [
+            {
+                "id": 2413889,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/95/95aff206fb512dcd7e58443952de576a.jpg"
+            },
+            {
+                "id": 2413890,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/c7/c7739f49b48d459dcd75f92c4bb1f9f2.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "21",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "24.70",
+        "unitPrice": "",
+        "minPrice": "24.70",
+        "maxPrice": "24.70",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120226-fosforno-kaliynoe-udobrenie-monokaliyfosfat-10-g",
+        "inStock": 11,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5150526,
+        "sku": "5150526",
+        "title": "Кормушка для птиц сборная модель, PREZENT, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2400112,
+        "images": [
+            {
+                "id": 2400112,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/c0/c09531d87018c1227f925c3e7ccf7c67.jpg"
+            },
+            {
+                "id": 2400113,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e1/e1717e7407ba80e2b8bca7b2700fb490.jpg"
+            },
+            {
+                "id": 2400114,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/9e/9ea90e828aa155d0f1157ac65063f8cd.jpg"
+            },
+            {
+                "id": 2400115,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/b4/b49a52a88cffd969a9d195b2572a3078.jpg"
+            },
+            {
+                "id": 2400116,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/ad/adb5aef4af93c89e9e74ba3916b3d54f.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "229.00",
+        "unitPrice": "",
+        "minPrice": "229.00",
+        "maxPrice": "229.00",
+        "variantCount": 1,
+        "variantId": 108381,
+        "url": "sad-i-ogorod/p-5150526-kormushka-dlya-ptits-sbornaya-model--v-assortimente",
+        "inStock": 10,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120030,
+        "sku": "5120030",
+        "title": "\"Фитоспорин-М\", ОЖЗ Кузнецова, 100 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413834,
+        "images": [
+            {
+                "id": 2413834,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e3/e34008c25522bc0a09b94531585849db.jpg"
+            },
+            {
+                "id": 2413835,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/a3/a3e1e0c8ef2b1c9a3384dd0411850a79.jpg"
+            },
+            {
+                "id": 2413836,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e4/e4dfaf792680bc456d2858fcb6895561.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "49.50",
+        "unitPrice": "",
+        "minPrice": "49.50",
+        "maxPrice": "49.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120030-fitosporin-m-ojz-kuznetsova-100-g",
+        "inStock": 30,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5130122,
+        "sku": "5130122",
+        "title": "Поддон для рассады с крышкой, АГРОСНАБРИТЕЙЛ, 20х9х34 см",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2211756,
+        "images": [
+            {
+                "id": 2211756,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/70/70d942844088154a91027617c955451c.jpg"
+            },
+            {
+                "id": 2295670,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/72/720a0536d3b34d8756cff69707fa8212.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "69.00",
+        "unitPrice": "",
+        "minPrice": "69.00",
+        "maxPrice": "69.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5130122-poddon-dlya-rassady-s-kryshkoy-agrosnabriteyl-20h9h34-sm",
+        "inStock": 30,
+        "brand": {
+            "id": 684,
+            "title": "Торговый Дом АСР"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120194,
+        "sku": "5120194",
+        "title": "Заправка для рассадных грунтов, SunTerra, 50 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2413770,
+        "images": [
+            {
+                "id": 2413770,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/81/8138930b86e29c7f871c1d08ffeb1afe.jpg"
+            },
+            {
+                "id": 2413771,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/46/46aafbcdac4e5fdf38939ce14d7572f3.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "29.50",
+        "unitPrice": "",
+        "minPrice": "29.50",
+        "maxPrice": "29.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120194-zapravka-dlya-rassadnyh-gruntov-unerra-50-g",
+        "inStock": 27,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120137,
+        "sku": "5120137",
+        "title": "Коренник \"Октябрина Апрелевна\", Щёлково Агрохим, 5 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2414353,
+        "images": [
+            {
+                "id": 2414353,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/c4/c433c5406abdda78ef31ff82c6cf5ec6.jpg"
+            },
+            {
+                "id": 2414354,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/1c/1cb5bb53a7116e12cd8aa846263b6e2a.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "12.30",
+        "unitPrice": "",
+        "minPrice": "12.30",
+        "maxPrice": "12.30",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120137-korennik-oktyabrina-aprelevna-schlkovo-agrohim-5-g",
+        "inStock": 28,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120201,
+        "sku": "5120201",
+        "title": "Биопрепарат \"Кормилица Микориза\", ОЖЗ Кузнецова, 30 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2355573,
+        "images": [
+            {
+                "id": 2355574,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/2d/2d255a6bc9ee691717818800b209960d.jpg"
+            },
+            {
+                "id": 2355573,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/98/98b9a10d749c6008afdef7025a1049f4.jpg"
+            },
+            {
+                "id": 2355575,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/82/82dab4341012d7f8236aea48d9b624cb.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "29",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "33.00",
+        "unitPrice": "",
+        "minPrice": "33.00",
+        "maxPrice": "33.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120201-biopreparat-kormilitsa-mikoriza-ojz-kuznetsova-30-g",
+        "inStock": 23,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120298,
+        "sku": "5120298",
+        "title": "Удобрение листовое для петуний и балконных цветов \"Leafpower\", FERTIKA, 15 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2354905,
+        "images": [
+            {
+                "id": 2354905,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/2f/2f86603ff06a1fc4824c800a6c6c64a7.jpg"
+            },
+            {
+                "id": 2354906,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/56/56e0e245d8aa09f0a8857712a62856b3.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "17",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "20.70",
+        "unitPrice": "",
+        "minPrice": "20.70",
+        "maxPrice": "20.70",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120298-udobrenie-listovoe-dlya-petuniy-i-balkonnyh-tsvetov-eafpoer--15-g",
+        "inStock": 12,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120200,
+        "sku": "5120200",
+        "title": "Грунт для цветов и комнатных растений, Азбука Роста, 5 л",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2255687,
+        "images": [
+            {
+                "id": 2255687,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/9a/9a3d214ffc090a91ae7705ea38a35c3d.jpg"
+            },
+            {
+                "id": 2255688,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/3a/3a360f4bd542698c9c2b6678a999cf95.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "59.00",
+        "unitPrice": "",
+        "minPrice": "59.00",
+        "maxPrice": "59.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120200-grunt-dlya-tsvetov-i-komnatnyh-rasteniy-azbuka-rosta-5-l",
+        "inStock": 25,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5130123,
+        "sku": "5130123",
+        "title": "Кассеты для рассады, АГРОСНАБРИТЕЙЛ, 18 ячеек",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2211633,
+        "images": [
+            {
+                "id": 2211633,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/ae/ae81995797a09affe546e9fbd776bd8a.jpg"
+            },
+            {
+                "id": 2295668,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/2d/2d16348d080f27a73d9594f17443a4f4.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "39.50",
+        "unitPrice": "",
+        "minPrice": "39.50",
+        "maxPrice": "39.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5130123-kassety-dlya-rassady-agrosnabriteyl-18-yacheek",
+        "inStock": 28,
+        "brand": {
+            "id": 684,
+            "title": "Торговый Дом АСР"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120292,
+        "sku": "5120292",
+        "title": "Борная кислота, Секрет урожая, 10 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2414309,
+        "images": [
+            {
+                "id": 2414309,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/67/671dbbf3d12fef3b5bbb248520f533d7.jpg"
+            },
+            {
+                "id": 2414310,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/9f/9f07d660a354e36758252e666a03f5a7.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "13",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "16.50",
+        "unitPrice": "",
+        "minPrice": "16.50",
+        "maxPrice": "16.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120292-bornaya-kislota-sekret-urojaya-10-g",
+        "inStock": 23,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5130127,
+        "sku": "5130127",
+        "title": "Горшок для цветов, Greenart, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2315736,
+        "images": [
+            {
+                "id": 2315736,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/c1/c1cd55bfa3d470dd8fff2d15c3451956.jpg"
+            },
+            {
+                "id": 2315737,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/62/62bc71e6e21eccb11d42c896804f4deb.jpg"
+            },
+            {
+                "id": 2315738,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/f3/f3b21e1f4bb50eb1dc472666d620c7a0.jpg"
+            },
+            {
+                "id": 2315739,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/f4/f4bebddb8079875e7991c1989ea71a3f.jpg"
+            },
+            {
+                "id": 2315740,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/a7/a79d08319128ec02a948abff9867ecfe.jpg"
+            },
+            {
+                "id": 2315741,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/2c/2cf4beb9b7b8c115f25703e22439b502.jpg"
+            },
+            {
+                "id": 2315742,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/04/041ec1557b407d9020cbd680d7155fca.jpg"
+            },
+            {
+                "id": 2315743,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/b4/b472755845eee79976011f38d8b8719f.jpg"
+            },
+            {
+                "id": 2315744,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/53/538f416028c461a3594f61f274eee12d.jpg"
+            },
+            {
+                "id": 2315745,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/93/938886cc48a8416646d726169ffb1400.jpg"
+            },
+            {
+                "id": 2315746,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/cf/cfb70f332c04f373d49a6b3838bff8fb.jpg"
+            },
+            {
+                "id": 2315747,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e4/e43015c6cab0c9f4a55bd8156f6d1d19.jpg"
+            },
+            {
+                "id": 2315748,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/31/31fccffb5ffd1473f25e74cf072283e7.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": {
+            "price": "45",
+            "active_to": "9999-12-31 23:59:59"
+        },
+        "price": "55.00",
+        "unitPrice": "",
+        "minPrice": "55.00",
+        "maxPrice": "55.00",
+        "variantCount": 8,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5130127-gorshok-dlya-tsvetov-reenart-v-assortimente",
+        "inStock": 122,
+        "brand": {
+            "id": 12630,
+            "title": "Greenart"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5130226,
+        "sku": "5130226",
+        "title": "Горшок для цветов с поддоном, СТАРИНА, 3,2 л, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2414964,
+        "images": [
+            {
+                "id": 2414964,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/a2/a2324f9e223f2b70e9dfdc490636fe86.jpg"
+            },
+            {
+                "id": 2414965,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/29/295106d2bc2dace1b0880a1c091286c3.jpg"
+            },
+            {
+                "id": 2414966,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/7a/7a087894b83d15696cb7f3c3f156ee59.jpg"
+            },
+            {
+                "id": 2414967,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/f3/f3054607342d3a6658a098d317a196c8.jpg"
+            },
+            {
+                "id": 2414968,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/e8/e8161918ce13cd32cc68ce247dd3ee39.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "174.50",
+        "unitPrice": "",
+        "minPrice": "174.50",
+        "maxPrice": "174.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5130226-gorshok-dlya-tsvetov-s-poddonom-starina-32-l-v-assortimente",
+        "inStock": 55,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5100068,
+        "sku": "5100068",
+        "title": "Лейка, 2 л, в ассортименте",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2221732,
+        "images": [
+            {
+                "id": 2221732,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/31/31c4b5c7f2b93f2980d6ee77a20510ca.jpg"
+            },
+            {
+                "id": 2221733,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/d9/d983779feb11c12a8fceff120238cc8e.jpg"
+            },
+            {
+                "id": 2221734,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/85/850916ba51be804518be9ec19107ebbb.jpg"
+            },
+            {
+                "id": 2255641,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/86/86951b82e930308cfd3c51a8dc046b2a.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "99.00",
+        "unitPrice": "",
+        "minPrice": "99.00",
+        "maxPrice": "99.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5100068-leyka-2-l-v-assortimente",
+        "inStock": 43,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120369,
+        "sku": "5120369",
+        "title": "Марганцовка (калий марганцовокислый 44,9%), СТК, 10 г",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2412559,
+        "images": [
+            {
+                "id": 2412559,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/b5/b5b67a410f84cd5139530079003a6ba7.jpg"
+            },
+            {
+                "id": 2412560,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/49/49522e585a03a1aae810074c6f4e7b0b.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "29.50",
+        "unitPrice": "",
+        "minPrice": "29.50",
+        "maxPrice": "29.50",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120369-margantsovka-kaliy-margantsovokislyy-449-stk-10-g",
+        "inStock": 16,
+        "brand": null,
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    },
+    {
+        "id": 5120105,
+        "sku": "5120105",
+        "title": "Органическое удобрение \"Биогумус для рассады\", Florizel, 350 мл",
+        "isFresh": false,
+        "isNew": false,
+        "isPromo": false,
+        "adult": false,
+        "isSeason": false,
+        "isHit": false,
+        "isQRMark": false,
+        "forbidden": false,
+        "active": true,
+        "image": 2207217,
+        "images": [
+            {
+                "id": 2207217,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/bd/bd70c1ec5a47785f22bf19801a9da575.jpg"
+            },
+            {
+                "id": 2207218,
+                "title": null,
+                "src": "https://img.fix-price.com/_marketplace/images/origin/96/96df451b8d87b0a8d74029d58f3af26d.jpg"
+            }
+        ],
+        "unit": null,
+        "specialPrice": null,
+        "price": "87.00",
+        "unitPrice": "",
+        "minPrice": "87.00",
+        "maxPrice": "87.00",
+        "variantCount": 1,
+        "variantId": null,
+        "url": "sad-i-ogorod/p-5120105-organicheskoe-udobrenie-biogumus-dlya-rassady-lorizel-350-ml",
+        "inStock": 27,
+        "brand": {
+            "id": 682,
+            "title": "Florizel"
+        },
+        "category": {
+            "id": 2018,
+            "title": "Сад и огород",
+            "parentCategory": null
+        }
+    }
+]
