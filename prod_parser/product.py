@@ -1,7 +1,6 @@
 import json
 import os
 import random
-from datetime import datetime
 
 
 class ProductSaver:
@@ -29,21 +28,16 @@ class ProductSaver:
         """
         for product_data in products:
             try:
-                # Извлекаем название продукта
                 product_name = product_data.get("title", "unknown_product")
-                # Генерируем случайное число
                 random_number = random.randint(1000, 9999)
-                # Формируем имя файла
                 filename = f"{product_name}_{random_number}.json"
-                # Убираем запрещенные символы в имени файла
                 filename = "".join(c for c in filename if c.isalnum() or c in (' ', '.', '_')).rstrip()
                 filepath = os.path.join(self.output_dir, filename)
 
-                # Сохраняем данные в файл
                 with open(filepath, "w", encoding="utf-8") as f:
                     json.dump([product_data], f, ensure_ascii=False, indent=4)
-
-                print(f"💾 Данные успешно сохранены в файл: {filepath}")
+                #!Для дебаага!!!
+                # print(f"💾 Данные успешно сохранены в файл: {filepath}")
             except Exception as e:
                 print(f"❌ Ошибка при сохранении товара {product_name}: {e}")
 
@@ -51,6 +45,7 @@ class ProductSaver:
 
 
 if __name__ == "__main__":
+    # from datetime import datetime
     settings = {
         "region": "Екатеринбург",
         "timestamp": 1698765432,

@@ -1,33 +1,22 @@
 {
     "#city_id": "ID города для парсинга",
     "city_id": 55,
-    "reg_name":"Екатеринбург",
-
+    "reg_name": "Екатеринбург",
     "#categories": "Список URL категорий для парсинга. None если нужны все ",
     "categories": [
-            "vsye-po-35"
+        "vsye-po-35"
     ],
-
     "#proxy": "Настройки прокси",
     "proxy": {
         "enabled": false,
-
-        "list": [
-
-        ]
-
-
+        "list": []
     },
-
     "#concurrency": "Настройки потоков и параллельных запросов.",
     "concurrency": {
-        "max_threads": 1,
-        "delay": 2,
-        "retries": 3
+        "max_threads": 5,
+        "delay": 5,
+        "retries": 33
     },
-
-
-
     "#user_agent": "User-Agent для HTTP-запросов.",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
